@@ -131,18 +131,4 @@ console.log("Welcome to my GitHub! 👋");
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true&quote=The+best+way+to+predict+the+future+is+to+create+it&author=Peter+Drucker" />
 </div>
 
----
-
-<div align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4c-ed75-4657-8a84-b32a9ae1c0e1" width="400" />
-</div>
-
-<div align="center">
-  <h2>🚀 "Code is like humor. When you have to explain it, it's bad." - Cory House</h2>
-  <h3>💫 Thanks for visiting! Let's connect and build something extraordinary together! 💫</h3>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=120&section=footer&animation=fadeIn&fontColor=ffffff"/>
-</div>
 ```
